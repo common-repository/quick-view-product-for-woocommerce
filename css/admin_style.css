@@ -1,0 +1,179 @@
+.ocwqv-container ul.tabs{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    border-bottom: 1px solid #ccc;
+}
+label.ocwqv_pro_link {
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.ocwqv-container ul.tabs li{
+    color: #222;
+    display: inline-block;
+    padding: 10px 15px;
+    width: auto;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 0;
+    border: 1px solid #ccc;
+    background: #e5e5e5;
+    margin-bottom: -1px;
+}
+.ocwqv-container .ocwqv-container-inner{
+    display: inline-block;
+    width: 96%;
+    padding: 15px 0px;
+}
+.ocwqv-container {
+    margin-top: 20px;
+}
+.ocwqv-container h2 {
+    margin: 0px 0px;
+    padding: 10px 10px;
+    background-color: #576979;
+    color: #fff;
+    text-transform: uppercase;
+}
+.cover_div {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+table.ocwqv_data_table {
+    display: inline-block;
+    padding: 0px 10px;
+}
+.ocwqv_data_table tr th, .ocwqv_data_table tr td{
+    text-align: left;
+    width: auto;
+}
+.ocwqv_data_table tr{
+    line-height: 51px;
+}
+.ocwqv_data_table tr th{
+    min-width: 250px;
+}
+.ocwqv_data_table select,.ocwqv_data_table input[type="number"]{
+    width: 49%;
+}
+.ocwqv_data_table strong {
+    vertical-align: middle;
+}
+.ocwqv_cover_div tr {
+    line-height: 51px;
+}
+.ocwqv_data_table input[type="color"]{
+	width:52%;
+}
+img.OCWQV_rating_div {
+    width: 105px;
+    vertical-align: middle;
+}
+.ocwqv_show_td label {
+	padding-right: 20px;
+}
+.ocwqv_icon_choice label {
+	padding-right: 20px;
+}
+.ocwqv_icon_choice img {
+	width: 25px;
+    vertical-align: sub;
+}
+.ocwqv_icon_choice i {
+    font-size: 24px;
+    color: #000000;
+}
+.ocwqv_cover_div .ocwqvscode {
+    display: inline-block;
+    width: 100%;
+    margin: 10px;
+}
+.ocwqv_cover_div .ocwqvscode p {
+    font-size: 16px;
+}
+/*CSS for support rating donation start*/
+.ocwqv_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+.ocwqv_ratesup_notice_main {
+    display: inline-block;
+    width: 100%;
+}
+.ocwqv_rateus_notice, .ocwqv_support_notice {
+    display: inline-block;
+    width: 45%;
+    float: left;
+    color: #fff;
+    background-color: #fb5f51;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    height: 70px;
+    margin-bottom: 12px;
+}
+.ocwqv_rateus_notice h3, .ocwqv_support_notice h3 {
+    color: #fff;
+    margin: 0;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+.ocwqv_rateus_notice label, .ocwqv_support_notice label {
+    font-size: 16px;
+}
+.ocwqv_support_notice {
+    background-color: #2f3337;
+    margin-left: 2%;
+}
+.ocwqv_rateus_notice a, .ocwqv_support_notice a {
+    color: #fff;
+}
+.ocwqv_rtusnoti_left {
+    display: inline-block;
+    float: left;
+    width: 70%;
+}
+.ocwqv_rtusnoti_right {
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+.ocwqv_rtusnoti_right img {
+    width: 50px;
+    height: auto;
+}
+.ocwqv_donate_main {
+    background: #fff;
+    padding: 15px;
+    display: flex;
+    width: 94.6%;
+    border: 1px solid #e3bbac;
+    align-items: center;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-top: 15px;
+}
+.ocwqv_donate_main img {
+    height: 32px;
+}
+.ocwqv_donate_main > * {
+    margin: 0 15px 0 0;
+    vertical-align: middle;
+}
+.ocwqv_onate_main h3 {
+    font-size: 15px;
+}
+.ocwqv_donate_form {
+    display: flex;
+}
+.ocwqv_donate_main .button {
+    text-align: center;
+}
+img.ocwqv_rating_div {
+    width: 100px;
+    width: 105px;
+    vertical-align: middle;
+}
+/*CSS for support rating donation end*/
